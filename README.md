@@ -1,1 +1,1 @@
-Computing graduate with an interest in Software Development.
+I’m a Full-Stack Java Developer passionate about building scalable, high-performance applications using Java (Spring Boot), Angular, SQL, and Kafka. I thrive in end-to-end development – from designing microservices and APIs to deploying containerised solutions with Docker and CI/CD pipelines.
